@@ -1,0 +1,799 @@
+
+Trial 1: N=102860326667779489 (57 bits), p=248494511, q=413933999
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2888.7, Lambda_R=30642, Lambda_S=3147, L*=61362
+  RESULT: factor 413933999  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=31877 of dense 61362 (ratio 0.519, rho=0.519); skinny 6295; plain HH shortest-vector baseline 8785
+
+Trial 2: N=97712802804780931 (57 bits), p=212615839, q=459574429
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2815.5, Lambda_R=29866, Lambda_S=3068, L*=59810
+  RESULT: factor 212615839  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1088, skinny=832
+  babysteps: sieved |E_R|=31070 of dense 59810 (ratio 0.519, rho=0.519); skinny 6137; plain HH shortest-vector baseline 8563
+
+Trial 3: N=38018101311493783 (56 bits), p=149621803, q=254094661
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1756.2, Lambda_R=18630, Lambda_S=1914, L*=37338
+  RESULT: factor 149621803  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=19397 of dense 37338 (ratio 0.519, rho=0.519); skinny 3829; plain HH shortest-vector baseline 5343
+
+Trial 4: N=32637891663637417 (55 bits), p=176643367, q=184767151
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1627.2, Lambda_R=17262, Lambda_S=1774, L*=34602
+  RESULT: factor 184767151  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=17976 of dense 34602 (ratio 0.520, rho=0.519); skinny 3549; plain HH shortest-vector baseline 4951
+
+Trial 5: N=51033672080342671 (56 bits), p=155936471, q=327272201
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2034.7, Lambda_R=21584, Lambda_S=2218, L*=43246
+  RESULT: factor 327272201  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1088, skinny=832
+  babysteps: sieved |E_R|=22465 of dense 43246 (ratio 0.519, rho=0.519); skinny 4437; plain HH shortest-vector baseline 6191
+
+Trial 6: N=98638501148788589 (57 bits), p=268285469, q=367662481
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2828.8, Lambda_R=30007, Lambda_S=3082, L*=60092
+  RESULT: factor 367662481  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=31218 of dense 60092 (ratio 0.520, rho=0.519); skinny 6165; plain HH shortest-vector baseline 8603
+
+Trial 7: N=136799019079025021 (57 bits), p=259270493, q=527630497
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3331.4, Lambda_R=35337, Lambda_S=3629, L*=70752
+  RESULT: factor 259270493  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1056, skinny=864
+  babysteps: sieved |E_R|=36755 of dense 70752 (ratio 0.519, rho=0.519); skinny 7259; plain HH shortest-vector baseline 10131
+
+Trial 8: N=32682318387626081 (55 bits), p=135905983, q=240477407
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1628.3, Lambda_R=17273, Lambda_S=1775, L*=34624
+  RESULT: factor 135905983  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1056, skinny=864
+  babysteps: sieved |E_R|=17986 of dense 34624 (ratio 0.519, rho=0.519); skinny 3551; plain HH shortest-vector baseline 4955
+
+Trial 9: N=64943305108562807 (56 bits), p=199602203, q=325363669
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2295.4, Lambda_R=24348, Lambda_S=2501, L*=48774
+  RESULT: factor 325363669  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=25338 of dense 48774 (ratio 0.519, rho=0.519); skinny 5003; plain HH shortest-vector baseline 6983
+
+Trial 10: N=66461744097797467 (56 bits), p=139497773, q=476435879
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2322.0, Lambda_R=24631, Lambda_S=2530, L*=49340
+  RESULT: factor 476435879  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=25631 of dense 49340 (ratio 0.519, rho=0.519); skinny 5061; plain HH shortest-vector baseline 7063
+
+Trial 11: N=41901370206676969 (56 bits), p=175227127, q=239126047
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1843.7, Lambda_R=19558, Lambda_S=2010, L*=39194
+  RESULT: factor 175227127  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=20361 of dense 39194 (ratio 0.519, rho=0.519); skinny 4021; plain HH shortest-vector baseline 5609
+
+Trial 12: N=47415271214292199 (56 bits), p=166452367, q=284857897
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1961.3, Lambda_R=20805, Lambda_S=2138, L*=41688
+  RESULT: factor 284857897  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1008, skinny=912
+  babysteps: sieved |E_R|=21658 of dense 41688 (ratio 0.520, rho=0.519); skinny 4277; plain HH shortest-vector baseline 5967
+
+Trial 13: N=90807303123361997 (57 bits), p=246375707, q=368572471
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2714.2, Lambda_R=28791, Lambda_S=2957, L*=57660
+  RESULT: factor 246375707  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=29954 of dense 57660 (ratio 0.519, rho=0.519); skinny 5915; plain HH shortest-vector baseline 8255
+
+Trial 14: N=54874396700910881 (56 bits), p=187416539, q=292793779
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2109.9, Lambda_R=22382, Lambda_S=2299, L*=44842
+  RESULT: factor 187416539  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=23296 of dense 44842 (ratio 0.520, rho=0.519); skinny 4599; plain HH shortest-vector baseline 6419
+
+Trial 15: N=38521962557743667 (56 bits), p=176537567, q=218208301
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1767.8, Lambda_R=18753, Lambda_S=1927, L*=37584
+  RESULT: factor 176537567  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=19524 of dense 37584 (ratio 0.519, rho=0.519); skinny 3855; plain HH shortest-vector baseline 5379
+
+Trial 16: N=83474460332184793 (57 bits), p=210489739, q=396572587
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2602.3, Lambda_R=27604, Lambda_S=2836, L*=55286
+  RESULT: factor 396572587  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1216, skinny=704
+  babysteps: sieved |E_R|=28720 of dense 55286 (ratio 0.519, rho=0.519); skinny 5673; plain HH shortest-vector baseline 7915
+
+Trial 17: N=41470231491276233 (56 bits), p=197910569, q=209540257
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1834.2, Lambda_R=19457, Lambda_S=1999, L*=38992
+  RESULT: factor 209540257  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=20257 of dense 38992 (ratio 0.520, rho=0.519); skinny 3999; plain HH shortest-vector baseline 5581
+
+Trial 18: N=69980065861980697 (56 bits), p=223484531, q=313131587
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2382.7, Lambda_R=25275, Lambda_S=2596, L*=50628
+  RESULT: factor 313131587  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=26301 of dense 50628 (ratio 0.519, rho=0.519); skinny 5193; plain HH shortest-vector baseline 7247
+
+Trial 19: N=116815388566136719 (57 bits), p=254248921, q=459452839
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3078.4, Lambda_R=32654, Lambda_S=3354, L*=65386
+  RESULT: factor 254248921  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=33967 of dense 65386 (ratio 0.519, rho=0.519); skinny 6709; plain HH shortest-vector baseline 9363
+
+Trial 20: N=31395479028611839 (55 bits), p=155180821, q=202315459
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1595.9, Lambda_R=16930, Lambda_S=1740, L*=33938
+  RESULT: factor 202315459  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1008, skinny=912
+  babysteps: sieved |E_R|=17630 of dense 33938 (ratio 0.519, rho=0.519); skinny 3481; plain HH shortest-vector baseline 4857
+
+Trial 21: N=77266377586229417 (57 bits), p=264398419, q=292234643
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2503.7, Lambda_R=26558, Lambda_S=2728, L*=53194
+  RESULT: factor 292234643  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=27634 of dense 53194 (ratio 0.519, rho=0.519); skinny 5457; plain HH shortest-vector baseline 7615
+
+Trial 22: N=114326684324911571 (57 bits), p=226452377, q=504859723
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3045.5, Lambda_R=32305, Lambda_S=3318, L*=64688
+  RESULT: factor 504859723  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=33604 of dense 64688 (ratio 0.519, rho=0.519); skinny 6637; plain HH shortest-vector baseline 9263
+
+Trial 23: N=68429122070284667 (56 bits), p=140229449, q=487979683
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2356.1, Lambda_R=24993, Lambda_S=2568, L*=50064
+  RESULT: factor 487979683  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=26007 of dense 50064 (ratio 0.519, rho=0.519); skinny 5137; plain HH shortest-vector baseline 7167
+
+Trial 24: N=127349769981895829 (57 bits), p=258812101, q=492054929
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3214.3, Lambda_R=34095, Lambda_S=3502, L*=68268
+  RESULT: factor 258812101  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=35464 of dense 68268 (ratio 0.519, rho=0.519); skinny 7005; plain HH shortest-vector baseline 9775
+
+Trial 25: N=114894337969672829 (57 bits), p=232310171, q=494572999
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3053.0, Lambda_R=32385, Lambda_S=3326, L*=64848
+  RESULT: factor 232310171  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=33687 of dense 64848 (ratio 0.519, rho=0.519); skinny 6653; plain HH shortest-vector baseline 9285
+
+Trial 26: N=135273354365502907 (57 bits), p=253065023, q=534539909
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3312.7, Lambda_R=35139, Lambda_S=3609, L*=70356
+  RESULT: factor 253065023  via exact match + Lemma 2.4  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1216, skinny=704
+  babysteps: sieved |E_R|=36548 of dense 70356 (ratio 0.519, rho=0.519); skinny 7219; plain HH shortest-vector baseline 10075
+
+Trial 27: N=82370541479906917 (57 bits), p=207923437, q=396158041
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2585.0, Lambda_R=27421, Lambda_S=2817, L*=54920
+  RESULT: factor 396158041  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=28531 of dense 54920 (ratio 0.520, rho=0.519); skinny 5635; plain HH shortest-vector baseline 7863
+
+Trial 28: N=62021315773572019 (56 bits), p=208722511, q=297147229
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2243.1, Lambda_R=23794, Lambda_S=2444, L*=47666
+  RESULT: factor 297147229  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=24762 of dense 47666 (ratio 0.519, rho=0.519); skinny 4889; plain HH shortest-vector baseline 6823
+
+Trial 29: N=51054245568453731 (56 bits), p=140987489, q=362118979
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2035.2, Lambda_R=21589, Lambda_S=2218, L*=43256
+  RESULT: factor 140987489  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=22471 of dense 43256 (ratio 0.519, rho=0.519); skinny 4437; plain HH shortest-vector baseline 6191
+
+Trial 30: N=50386265125823741 (56 bits), p=156171731, q=322633711
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2021.8, Lambda_R=21447, Lambda_S=2204, L*=42972
+  RESULT: factor 322633711  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=22323 of dense 42972 (ratio 0.519, rho=0.519); skinny 4409; plain HH shortest-vector baseline 6151
+
+Trial 31: N=32002985064629303 (55 bits), p=170176969, q=188057087
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1611.3, Lambda_R=17093, Lambda_S=1757, L*=34264
+  RESULT: factor 170176969  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=17800 of dense 34264 (ratio 0.519, rho=0.519); skinny 3515; plain HH shortest-vector baseline 4903
+
+Trial 32: N=120626956088690959 (57 bits), p=249966643, q=482572213
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3128.3, Lambda_R=33183, Lambda_S=3408, L*=66444
+  RESULT: factor 482572213  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=34517 of dense 66444 (ratio 0.519, rho=0.519); skinny 6817; plain HH shortest-vector baseline 9513
+
+Trial 33: N=91138515605626759 (57 bits), p=212593253, q=428699003
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2719.1, Lambda_R=28843, Lambda_S=2963, L*=57764
+  RESULT: factor 428699003  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=30007 of dense 57764 (ratio 0.519, rho=0.519); skinny 5927; plain HH shortest-vector baseline 8271
+
+Trial 34: N=64759927302243553 (56 bits), p=170143231, q=380620063
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2292.1, Lambda_R=24314, Lambda_S=2498, L*=48706
+  RESULT: factor 380620063  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=25302 of dense 48706 (ratio 0.519, rho=0.519); skinny 4997; plain HH shortest-vector baseline 6973
+
+Trial 35: N=79955606130801113 (57 bits), p=176416351, q=453221063
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2546.9, Lambda_R=27016, Lambda_S=2775, L*=54110
+  RESULT: factor 176416351  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=28109 of dense 54110 (ratio 0.519, rho=0.519); skinny 5551; plain HH shortest-vector baseline 7747
+
+Trial 36: N=98085820792764769 (57 bits), p=254270713, q=385753513
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2820.9, Lambda_R=29922, Lambda_S=3073, L*=59922
+  RESULT: factor 385753513  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=31129 of dense 59922 (ratio 0.519, rho=0.519); skinny 6147; plain HH shortest-vector baseline 8579
+
+Trial 37: N=80165728020912949 (57 bits), p=220243861, q=363986209
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2550.2, Lambda_R=27052, Lambda_S=2779, L*=54182
+  RESULT: factor 363986209  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=28146 of dense 54182 (ratio 0.519, rho=0.519); skinny 5559; plain HH shortest-vector baseline 7757
+
+Trial 38: N=85420600481599633 (57 bits), p=185303413, q=460976941
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2632.5, Lambda_R=27924, Lambda_S=2868, L*=55926
+  RESULT: factor 185303413  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=29054 of dense 55926 (ratio 0.520, rho=0.519); skinny 5737; plain HH shortest-vector baseline 8007
+
+Trial 39: N=108591649701425419 (57 bits), p=207654631, q=522943549
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2968.1, Lambda_R=31484, Lambda_S=3234, L*=63046
+  RESULT: factor 207654631  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1008, skinny=912
+  babysteps: sieved |E_R|=32751 of dense 63046 (ratio 0.519, rho=0.519); skinny 6469; plain HH shortest-vector baseline 9027
+
+Trial 40: N=41474781923594009 (56 bits), p=183721093, q=225748613
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1834.3, Lambda_R=19458, Lambda_S=1999, L*=38994
+  RESULT: factor 225748613  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=20258 of dense 38994 (ratio 0.520, rho=0.519); skinny 3999; plain HH shortest-vector baseline 5581
+
+Trial 41: N=31573393572668267 (55 bits), p=151148443, q=208889969
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1600.5, Lambda_R=16978, Lambda_S=1745, L*=34034
+  RESULT: factor 151148443  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=17680 of dense 34034 (ratio 0.519, rho=0.519); skinny 3491; plain HH shortest-vector baseline 4871
+
+Trial 42: N=118253390219730761 (57 bits), p=264510899, q=447064339
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3097.3, Lambda_R=32855, Lambda_S=3374, L*=65788
+  RESULT: factor 447064339  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=34177 of dense 65788 (ratio 0.520, rho=0.519); skinny 6749; plain HH shortest-vector baseline 9419
+
+Trial 43: N=69816514360306957 (56 bits), p=216298499, q=322778543
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2379.9, Lambda_R=25245, Lambda_S=2593, L*=50568
+  RESULT: factor 216298499  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=26269 of dense 50568 (ratio 0.519, rho=0.519); skinny 5187; plain HH shortest-vector baseline 7239
+
+Trial 44: N=88340236039618711 (57 bits), p=184095413, q=479861147
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2677.1, Lambda_R=28397, Lambda_S=2917, L*=56872
+  RESULT: factor 184095413  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1008, skinny=912
+  babysteps: sieved |E_R|=29544 of dense 56872 (ratio 0.519, rho=0.519); skinny 5835; plain HH shortest-vector baseline 8143
+
+Trial 45: N=103779439041388199 (57 bits), p=220590871, q=470461169
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2901.6, Lambda_R=30779, Lambda_S=3161, L*=61636
+  RESULT: factor 220590871  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1056, skinny=864
+  babysteps: sieved |E_R|=32019 of dense 61636 (ratio 0.519, rho=0.519); skinny 6323; plain HH shortest-vector baseline 8825
+
+Trial 46: N=92053171062966551 (57 bits), p=209141909, q=440146939
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2732.8, Lambda_R=28988, Lambda_S=2978, L*=58054
+  RESULT: factor 440146939  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=30159 of dense 58054 (ratio 0.519, rho=0.519); skinny 5957; plain HH shortest-vector baseline 8311
+
+Trial 47: N=87279392804277133 (57 bits), p=228414559, q=382109587
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2661.0, Lambda_R=28226, Lambda_S=2899, L*=56530
+  RESULT: factor 228414559  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=29367 of dense 56530 (ratio 0.519, rho=0.519); skinny 5799; plain HH shortest-vector baseline 8093
+
+Trial 48: N=86297395134102461 (57 bits), p=169275371, q=509804791
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2645.9, Lambda_R=28067, Lambda_S=2883, L*=56212
+  RESULT: factor 169275371  via Lemma 3.11 certification  (0.0s)
+
+Trial 49: N=111948313661428021 (57 bits), p=215809361, q=518737061
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3013.6, Lambda_R=31967, Lambda_S=3283, L*=64012
+  RESULT: factor 518737061  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=33254 of dense 64012 (ratio 0.519, rho=0.519); skinny 6567; plain HH shortest-vector baseline 9165
+
+Trial 50: N=55807904045866741 (56 bits), p=198118937, q=281688893
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2127.8, Lambda_R=22571, Lambda_S=2319, L*=45220
+  RESULT: factor 198118937  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=23492 of dense 45220 (ratio 0.520, rho=0.519); skinny 4639; plain HH shortest-vector baseline 6473
+
+Trial 51: N=37193315624728969 (56 bits), p=159826189, q=232711021
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1737.1, Lambda_R=18427, Lambda_S=1894, L*=36932
+  RESULT: factor 232711021  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=19185 of dense 36932 (ratio 0.519, rho=0.519); skinny 3789; plain HH shortest-vector baseline 5285
+
+Trial 52: N=100677195576706237 (57 bits), p=229363087, q=438942451
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2857.9, Lambda_R=30315, Lambda_S=3114, L*=60708
+  RESULT: factor 229363087  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=31538 of dense 60708 (ratio 0.520, rho=0.519); skinny 6229; plain HH shortest-vector baseline 8693
+
+Trial 53: N=62869243889246539 (56 bits), p=226860169, q=277127731
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2258.4, Lambda_R=23956, Lambda_S=2461, L*=47990
+  RESULT: factor 277127731  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=24931 of dense 47990 (ratio 0.520, rho=0.519); skinny 4923; plain HH shortest-vector baseline 6871
+
+Trial 54: N=52070516262364823 (56 bits), p=135255047, q=384980209
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2055.3, Lambda_R=21802, Lambda_S=2240, L*=43682
+  RESULT: factor 135255047  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=22693 of dense 43682 (ratio 0.520, rho=0.519); skinny 4481; plain HH shortest-vector baseline 6253
+
+Trial 55: N=55523573207808533 (56 bits), p=199233941, q=278685313
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2122.4, Lambda_R=22514, Lambda_S=2313, L*=45106
+  RESULT: factor 199233941  via exact match + Lemma 2.4  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=23432 of dense 45106 (ratio 0.519, rho=0.519); skinny 4627; plain HH shortest-vector baseline 6457
+
+Trial 56: N=125285583268129169 (57 bits), p=249528701, q=502088869
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3188.1, Lambda_R=33817, Lambda_S=3473, L*=67712
+  RESULT: factor 502088869  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=35176 of dense 67712 (ratio 0.519, rho=0.519); skinny 6947; plain HH shortest-vector baseline 9695
+
+Trial 57: N=24199434511994249 (55 bits), p=152741647, q=158433767
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1401.2, Lambda_R=14864, Lambda_S=1528, L*=29806
+  RESULT: factor 152741647  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=15483 of dense 29806 (ratio 0.519, rho=0.519); skinny 3057; plain HH shortest-vector baseline 4265
+
+Trial 58: N=77676288969842867 (57 bits), p=205984897, q=377097011
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2510.3, Lambda_R=26628, Lambda_S=2735, L*=53334
+  RESULT: factor 377097011  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=27706 of dense 53334 (ratio 0.519, rho=0.519); skinny 5471; plain HH shortest-vector baseline 7635
+
+Trial 59: N=85446922218023813 (57 bits), p=224975717, q=379805089
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2632.9, Lambda_R=27928, Lambda_S=2869, L*=55934
+  RESULT: factor 224975717  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=29058 of dense 55934 (ratio 0.520, rho=0.519); skinny 5739; plain HH shortest-vector baseline 8009
+
+Trial 60: N=45592885675811011 (56 bits), p=182505539, q=249816449
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1923.2, Lambda_R=20401, Lambda_S=2096, L*=40880
+  RESULT: factor 182505539  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=21237 of dense 40880 (ratio 0.519, rho=0.519); skinny 4193; plain HH shortest-vector baseline 5851
+
+Trial 61: N=43720276834473509 (56 bits), p=182627891, q=239395399
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1883.3, Lambda_R=19978, Lambda_S=2053, L*=40034
+  RESULT: factor 182627891  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=20798 of dense 40034 (ratio 0.520, rho=0.519); skinny 4107; plain HH shortest-vector baseline 5731
+
+Trial 62: N=65605903726308443 (56 bits), p=180647473, q=363170891
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2307.0, Lambda_R=24472, Lambda_S=2514, L*=49022
+  RESULT: factor 180647473  via exact match + Lemma 2.4  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=25466 of dense 49022 (ratio 0.519, rho=0.519); skinny 5029; plain HH shortest-vector baseline 7017
+
+Trial 63: N=29212487144259173 (55 bits), p=135773663, q=215155771
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1539.5, Lambda_R=16331, Lambda_S=1678, L*=32740
+  RESULT: factor 135773663  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=17008 of dense 32740 (ratio 0.519, rho=0.519); skinny 3357; plain HH shortest-vector baseline 4685
+
+Trial 64: N=82221170529071923 (57 bits), p=162936691, q=504620353
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2582.7, Lambda_R=27396, Lambda_S=2814, L*=54870
+  RESULT: factor 504620353  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=28504 of dense 54870 (ratio 0.519, rho=0.519); skinny 5629; plain HH shortest-vector baseline 7855
+
+Trial 65: N=119475182018489677 (57 bits), p=231804467, q=515413631
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3113.3, Lambda_R=33024, Lambda_S=3392, L*=66126
+  RESULT: factor 515413631  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=34351 of dense 66126 (ratio 0.519, rho=0.519); skinny 6785; plain HH shortest-vector baseline 9469
+
+Trial 66: N=73647227799518207 (57 bits), p=252810419, q=291314053
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2444.3, Lambda_R=25929, Lambda_S=2664, L*=51936
+  RESULT: factor 252810419  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=26981 of dense 51936 (ratio 0.520, rho=0.519); skinny 5329; plain HH shortest-vector baseline 7435
+
+Trial 67: N=36564347680884851 (56 bits), p=182610853, q=200230967
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1722.3, Lambda_R=18270, Lambda_S=1878, L*=36618
+  RESULT: factor 182610853  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=19023 of dense 36618 (ratio 0.519, rho=0.519); skinny 3757; plain HH shortest-vector baseline 5241
+
+Trial 68: N=103223815684731253 (57 bits), p=198608407, q=519735379
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2893.8, Lambda_R=30696, Lambda_S=3153, L*=61470
+  RESULT: factor 519735379  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=31934 of dense 61470 (ratio 0.520, rho=0.519); skinny 6307; plain HH shortest-vector baseline 8801
+
+Trial 69: N=117907968813942569 (57 bits), p=222855041, q=529079209
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3092.8, Lambda_R=32807, Lambda_S=3370, L*=65692
+  RESULT: factor 222855041  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1056, skinny=864
+  babysteps: sieved |E_R|=34126 of dense 65692 (ratio 0.519, rho=0.519); skinny 6741; plain HH shortest-vector baseline 9407
+
+Trial 70: N=19562588541242503 (55 bits), p=139818521, q=139914143
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1259.8, Lambda_R=13364, Lambda_S=1374, L*=26806
+  RESULT: factor 139818521  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1216, skinny=704
+  babysteps: sieved |E_R|=13926 of dense 26806 (ratio 0.520, rho=0.519); skinny 2749; plain HH shortest-vector baseline 3835
+
+Trial 71: N=104539224084745867 (57 bits), p=249428149, q=419115583
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2912.2, Lambda_R=30891, Lambda_S=3173, L*=61860
+  RESULT: factor 249428149  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=32136 of dense 61860 (ratio 0.519, rho=0.519); skinny 6347; plain HH shortest-vector baseline 8857
+
+Trial 72: N=101040947902637879 (57 bits), p=257367091, q=392594669
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2863.1, Lambda_R=30370, Lambda_S=3119, L*=60818
+  RESULT: factor 257367091  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1056, skinny=864
+  babysteps: sieved |E_R|=31595 of dense 60818 (ratio 0.520, rho=0.519); skinny 6239; plain HH shortest-vector baseline 8707
+
+Trial 73: N=86661315783997457 (57 bits), p=253688101, q=341605757
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2651.5, Lambda_R=28126, Lambda_S=2889, L*=56330
+  RESULT: factor 253688101  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=29263 of dense 56330 (ratio 0.519, rho=0.519); skinny 5779; plain HH shortest-vector baseline 8065
+
+Trial 74: N=63638938175629889 (56 bits), p=202152893, q=314805973
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2272.2, Lambda_R=24103, Lambda_S=2476, L*=48284
+  RESULT: factor 314805973  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=25083 of dense 48284 (ratio 0.519, rho=0.519); skinny 4953; plain HH shortest-vector baseline 6911
+
+Trial 75: N=57707976013987801 (56 bits), p=171204749, q=337069949
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2163.7, Lambda_R=22952, Lambda_S=2358, L*=45982
+  RESULT: factor 337069949  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=23887 of dense 45982 (ratio 0.519, rho=0.519); skinny 4717; plain HH shortest-vector baseline 6583
+
+Trial 76: N=118041805640647277 (57 bits), p=263013923, q=448804399
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3094.6, Lambda_R=32825, Lambda_S=3371, L*=65728
+  RESULT: factor 263013923  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=34144 of dense 65728 (ratio 0.519, rho=0.519); skinny 6743; plain HH shortest-vector baseline 9411
+
+Trial 77: N=76731553862623057 (57 bits), p=219025837, q=350331061
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2495.0, Lambda_R=26466, Lambda_S=2719, L*=53010
+  RESULT: factor 219025837  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=27538 of dense 53010 (ratio 0.519, rho=0.519); skinny 5439; plain HH shortest-vector baseline 7589
+
+Trial 78: N=29365812006328253 (55 bits), p=139663009, q=210261917
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1543.5, Lambda_R=16374, Lambda_S=1683, L*=32826
+  RESULT: factor 210261917  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=17054 of dense 32826 (ratio 0.520, rho=0.519); skinny 3367; plain HH shortest-vector baseline 4697
+
+Trial 79: N=79166370640010039 (57 bits), p=172525831, q=458866769
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2534.3, Lambda_R=26882, Lambda_S=2761, L*=53842
+  RESULT: factor 458866769  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=27971 of dense 53842 (ratio 0.520, rho=0.519); skinny 5523; plain HH shortest-vector baseline 7709
+
+Trial 80: N=57481452873982447 (56 bits), p=137058877, q=419392411
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2159.5, Lambda_R=22907, Lambda_S=2353, L*=45892
+  RESULT: factor 137058877  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=23840 of dense 45892 (ratio 0.519, rho=0.519); skinny 4707; plain HH shortest-vector baseline 6569
+
+Trial 81: N=73297587096646921 (57 bits), p=262789547, q=278921243
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2438.5, Lambda_R=25867, Lambda_S=2657, L*=51812
+  RESULT: factor 278921243  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=26916 of dense 51812 (ratio 0.519, rho=0.519); skinny 5315; plain HH shortest-vector baseline 7417
+
+Trial 82: N=66734084402878097 (56 bits), p=172232941, q=387464117
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2326.8, Lambda_R=24682, Lambda_S=2536, L*=49442
+  RESULT: factor 387464117  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=25684 of dense 49442 (ratio 0.519, rho=0.519); skinny 5073; plain HH shortest-vector baseline 7077
+
+Trial 83: N=31571975945000209 (55 bits), p=139780099, q=225868891
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1600.4, Lambda_R=16977, Lambda_S=1745, L*=34032
+  RESULT: factor 139780099  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1088, skinny=832
+  babysteps: sieved |E_R|=17680 of dense 34032 (ratio 0.520, rho=0.519); skinny 3491; plain HH shortest-vector baseline 4871
+
+Trial 84: N=39145804312024591 (56 bits), p=181928437, q=215171443
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1782.1, Lambda_R=18904, Lambda_S=1943, L*=37886
+  RESULT: factor 215171443  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1088, skinny=832
+  babysteps: sieved |E_R|=19682 of dense 37886 (ratio 0.520, rho=0.519); skinny 3887; plain HH shortest-vector baseline 5423
+
+Trial 85: N=76838120621865671 (57 bits), p=252344899, q=304496429
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2496.7, Lambda_R=26484, Lambda_S=2721, L*=53046
+  RESULT: factor 304496429  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=27557 of dense 53046 (ratio 0.519, rho=0.519); skinny 5443; plain HH shortest-vector baseline 7595
+
+Trial 86: N=51186116345677559 (56 bits), p=185928961, q=275299319
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2037.8, Lambda_R=21616, Lambda_S=2221, L*=43310
+  RESULT: factor 275299319  via exact match + Lemma 2.4  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=22499 of dense 43310 (ratio 0.519, rho=0.519); skinny 4443; plain HH shortest-vector baseline 6199
+
+Trial 87: N=53877366509826187 (56 bits), p=186068527, q=289556581
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2090.7, Lambda_R=22177, Lambda_S=2279, L*=44432
+  RESULT: factor 186068527  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1184, skinny=736
+  babysteps: sieved |E_R|=23082 of dense 44432 (ratio 0.519, rho=0.519); skinny 4559; plain HH shortest-vector baseline 6361
+
+Trial 88: N=74445743941814117 (57 bits), p=210829211, q=353109247
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2457.5, Lambda_R=26069, Lambda_S=2678, L*=52216
+  RESULT: factor 210829211  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=960, skinny=960
+  babysteps: sieved |E_R|=27126 of dense 52216 (ratio 0.519, rho=0.519); skinny 5357; plain HH shortest-vector baseline 7475
+
+Trial 89: N=80874752644045231 (57 bits), p=209888411, q=385322621
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2561.5, Lambda_R=27171, Lambda_S=2791, L*=54420
+  RESULT: factor 209888411  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1008, skinny=912
+  babysteps: sieved |E_R|=28270 of dense 54420 (ratio 0.519, rho=0.519); skinny 5583; plain HH shortest-vector baseline 7791
+
+Trial 90: N=84441924059798611 (57 bits), p=268163431, q=314889781
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2617.3, Lambda_R=27764, Lambda_S=2852, L*=55606
+  RESULT: factor 314889781  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1088, skinny=832
+  babysteps: sieved |E_R|=28887 of dense 55606 (ratio 0.519, rho=0.519); skinny 5705; plain HH shortest-vector baseline 7961
+
+Trial 91: N=87256481322826589 (57 bits), p=216645307, q=402761927
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2660.6, Lambda_R=28223, Lambda_S=2899, L*=56524
+  RESULT: factor 216645307  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=29363 of dense 56524 (ratio 0.519, rho=0.519); skinny 5799; plain HH shortest-vector baseline 8093
+
+Trial 92: N=103533371709243809 (57 bits), p=264598283, q=391285123
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2898.2, Lambda_R=30742, Lambda_S=3158, L*=61562
+  RESULT: factor 391285123  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=31981 of dense 61562 (ratio 0.519, rho=0.519); skinny 6317; plain HH shortest-vector baseline 8815
+
+Trial 93: N=85405899126457067 (57 bits), p=246668119, q=346238093
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2632.2, Lambda_R=27922, Lambda_S=2868, L*=55922
+  RESULT: factor 346238093  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1136, skinny=784
+  babysteps: sieved |E_R|=29051 of dense 55922 (ratio 0.519, rho=0.519); skinny 5737; plain HH shortest-vector baseline 8007
+
+Trial 94: N=79429374814029011 (57 bits), p=205207157, q=387069223
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2538.5, Lambda_R=26927, Lambda_S=2766, L*=53932
+  RESULT: factor 387069223  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=28018 of dense 53932 (ratio 0.520, rho=0.519); skinny 5533; plain HH shortest-vector baseline 7721
+
+Trial 95: N=117312392400970619 (57 bits), p=238978847, q=490890277
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~3085.0, Lambda_R=32724, Lambda_S=3361, L*=65526
+  RESULT: factor 490890277  via collision mod p (multipoint gcd)  (0.2s)
+  oracle (correct candidate): branch=skinny, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=None, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=34040 of dense 65526 (ratio 0.519, rho=0.519); skinny 6723; plain HH shortest-vector baseline 9383
+
+Trial 96: N=66640624001948081 (56 bits), p=215069831, q=309855751
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2325.2, Lambda_R=24664, Lambda_S=2534, L*=49406
+  RESULT: factor 309855751  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=25665 of dense 49406 (ratio 0.519, rho=0.519); skinny 5069; plain HH shortest-vector baseline 7073
+
+Trial 97: N=62331772546883981 (56 bits), p=234185359, q=266164259
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2248.7, Lambda_R=23854, Lambda_S=2451, L*=47786
+  RESULT: factor 234185359  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1168, skinny=752
+  babysteps: sieved |E_R|=24824 of dense 47786 (ratio 0.519, rho=0.519); skinny 4903; plain HH shortest-vector baseline 6841
+
+Trial 98: N=68529955800622781 (56 bits), p=148976687, q=460004563
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2357.9, Lambda_R=25012, Lambda_S=2569, L*=50102
+  RESULT: factor 148976687  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1056, skinny=864
+  babysteps: sieved |E_R|=26027 of dense 50102 (ratio 0.519, rho=0.519); skinny 5139; plain HH shortest-vector baseline 7173
+
+Trial 99: N=66828155689803337 (56 bits), p=210280489, q=317804833
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~2328.4, Lambda_R=24699, Lambda_S=2537, L*=49476
+  RESULT: factor 317804833  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1216, skinny=704
+  babysteps: sieved |E_R|=25702 of dense 49476 (ratio 0.519, rho=0.519); skinny 5075; plain HH shortest-vector baseline 7083
+
+Trial 100: N=43789624515239279 (56 bits), p=194017099, q=225699821
+  m=1155 (primes<= 11), m0=2, X=m*m0=2310, S=[7, 11], t=2, M=77, rho=0.519, Y=1.500
+  lambda0~1884.8, Lambda_R=19994, Lambda_S=2054, L*=40066
+  RESULT: factor 225699821  via collision mod p (multipoint gcd)  (0.1s)
+  oracle (correct candidate): branch=regular, i in [0,2Lambda]=True, i==Q(k_p) mod ell=True, e* in E_R=True, alpha^e*==giant mod p=True
+  giantsteps: regular=1152, skinny=768
+  babysteps: sieved |E_R|=20815 of dense 40066 (ratio 0.520, rho=0.519); skinny 4109; plain HH shortest-vector baseline 5735
+
+100/100 factored.
